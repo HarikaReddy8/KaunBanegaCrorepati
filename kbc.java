@@ -162,7 +162,6 @@ public class kbc implements Quiz{
 				System.out.println("You won RS.10000000 and you won the show");
 			}
 		}
-
 	    }
 	    System.out.println("You are at level "+kbc.getCurrentLevel());	 
 }
