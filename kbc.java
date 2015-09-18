@@ -1,4 +1,5 @@
 import java.util.*;
+
 interface Quiz{	
 	void addQuestion(Question q);
 	Participant registerParticipant(String name, int age, String phone);
